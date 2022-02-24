@@ -1,10 +1,10 @@
 <Text>
 
-      <SoftSkills> 
+      <Soft_skills> 
          	<Skill>Information search</Skill>
 	        <Skill>Communication</Skill>
-	</SoftSkills>
-      <HardSkills>
+	</Soft_skills>
+      <Hard_skills>
         	<Skill>SDLC</Skill>
 	        <Skill>STLC</Skill>
 	        <Skill>Requests HTTP</Skill>
@@ -26,5 +26,5 @@
 	        <Skill>Jmeter</Skill>
 	        <Skill>Scrum</Skill>
 		<Skill>Python</Skill>
-	</HardSkills>
+	</Hard_skills>
 </Text>
