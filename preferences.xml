@@ -1,7 +1,7 @@
 <Text>
-	<FavoriteFilm>En man som heter Ove</FavoriteFilm>,
-	<FavoriteSerialFilm>Brooklyn Nine-Nine</FavoriteSerialFilm>
-	<FavoriteFood>Meat</FavoriteFood>,
-	<FavoriteSeason>Summer</FavoriteSeason>
-	<LandForTravel>Japan</LandForTravel>
+	<Favorite_film>En man som heter Ove</Favorite_film>,
+	<Favorite_serial_film>Brooklyn Nine-Nine</Favorite_serial_film>
+	<Favorite_food>Meat</Favorite_food>,
+	<Favorite_season>Summer</Favorite_season>
+	<Land_for_travel>Japan</Land_for_travel>
 </Text>
