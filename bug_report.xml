@@ -1,0 +1,11 @@
+<Bug_report>
+  <Summary>Broken link to Facebook</Summary>
+  <Description>
+    <Step_to_reproduce_one>Open app</Step_to_reproduce_one> 
+    <Step_to_reproduce_two>Tap to link Facebook</Step_to_reproduce_two>
+    <Step_to_reproduce_three>Tap to link Facebook</Step_to_reproduce_three>
+    <Actual_result>The Facebook page opened</Actual_result>
+    <Expected_result>Error 404 returned</Expected_result>
+  </Description>  
+  <Priority>Minor</Priority>
+</BugReport>
