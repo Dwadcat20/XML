@@ -1,8 +1,8 @@
 <Text>
 	<Name>Aleksandr</Name>
 	<Surname>Krivenkiy</Surname>
-	<MiddleName>Mecheslavovich</MiddleName>
-	<PetQuantity>2</PetQuantity>
+	<Middle_name>Mecheslavovich</Middle_name>
+	<Pet_quantity>2</Pet_quantity>
 	<Salary>1500</Salary>
 </Text>
 
