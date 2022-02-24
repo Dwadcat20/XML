@@ -1,0 +1,30 @@
+<Text>
+
+      <SoftSkills> 
+         	<Skill>Information search</Skill>
+	        <Skill>Communication</Skill>
+	</SoftSkills>
+      <HardSkills>
+        	<Skill>SDLC</Skill>
+	        <Skill>STLC</Skill>
+	        <Skill>Requests HTTP</Skill>
+	        <Skill>Response codes HTTP</Skill>
+	        <Skill>Json</Skill>
+	        <Skill>XML</Skill>
+	        <Skill>Postman autotest API</Skill>
+	        <Skill>Postman JS</Skill>
+	        <Skill>Charles and Fiddler</Skill>
+	        <Skill>DevTools</Skill>
+	        <Skill>VPN</Skill>
+	        <Skill>Android Studio</Skill>
+	        <Skill>ADB</Skill>
+	        <Skill>Features of mobile testing</Skill>
+	        <Skill>Terminal linux</Skill>
+	        <Skill>SQL</Skill>
+	        <Skill>Postgres</Skill>
+	        <Skill>Redis</Skill>
+	        <Skill>Jmeter</Skill>
+	        <Skill>Scrum</Skill>
+		<Skill>Python</Skill>
+	</HardSkills>
+</Text>
